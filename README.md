@@ -13,14 +13,9 @@
 - AI Ethics: Interested in the ethical implications and societal impacts of artificial intelligence.
 
 ### 💻 Technical Skills:
-- Programming Languages: Python, R, SQL
-- Libraries & Frameworks: TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib
-- Tools & Platforms: Jupyter Notebook, Git, Docker, AWS
-
-### 🚀 Current Projects:
-- Thesis Research: Still under investigation.
-- Machine Learning Models: Building and refining models to solve complex problems.
-- Open Source Contributions: Actively contributing to [Your Favorite Open Source Projects].
+- Programming Languages: Python, R, SQL and HTML & CSS (I know I know, it's actually markup language).
+- Libraries & Frameworks: TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib, etc.
+- Tools & Platforms: VS Code, MySQL, Git, Docker, AWS, Databricks.
 
 ### 🌱 What I'm Intersted in Learning
 - Advanced ML Techniques (NLPs and CNNs): Diving into RAGs and other cutting-edge machine learning methods.
