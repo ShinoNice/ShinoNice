@@ -17,7 +17,7 @@
 - Libraries & Frameworks: TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib, etc.
 - Tools & Platforms: VS Code, MySQL, Git, Docker, AWS, Databricks.
 
-### 🌱 What I'm Intersted in Learning
+### 🌱 What I'm Interested in Learning
 - Advanced ML Techniques (NLPs and CNNs): Diving into RAGs and other cutting-edge machine learning methods.
 - Data Engineering: Enhancing my skills in data pipelines, ETL processes, and data warehousing.
 - Cloud Computing: Expanding my knowledge of cloud platforms like AWS, Azure, and GCP.
