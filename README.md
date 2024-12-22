@@ -25,4 +25,4 @@
 ### 🤝 Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/joaoduartemachado/
 - Email: joaoduartemachado0@gmail.com
-- Insta: @joao.machas
+- Insta: @joao.dmachado
